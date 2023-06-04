@@ -23,3 +23,9 @@ npm install
 ```
 npm run cy:run
 ```
+
+### use the link below to access manual test cases
+
+```
+https://docs.google.com/spreadsheets/d/1oPRuf7zKKW-5mE97SLHUJXJjux_gZXF_hp3EKZxxnr4/edit?usp=sharing
+```
